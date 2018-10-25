@@ -9,6 +9,8 @@ __  _  ____  _  ____  _  __         |  |/_   \   _  \   ____
  www-l10n                                   translate@eff.org
 ==============================================================
 
+agora só faltam dois
+
 This repository contains translation requests for content from the
 Electronic Frontier Foundation's website at https://www.eff.org/
 
